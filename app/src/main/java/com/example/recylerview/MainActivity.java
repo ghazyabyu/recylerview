@@ -31,7 +31,8 @@ import java.util.ArrayList;
             datamakanan.add(new Modelmakanan("nasi goreng","Rp.23.000",R.drawable.nasi_goreng ));
             datamakanan.add(new Modelmakanan("pindang serani","Rp25.000",R.drawable.pindang ));
             datamakanan.add(new Modelmakanan("rendang","Rp.13.000",R.drawable.rendang ));
-            datamakanan.add(new Modelmakanan("sate","Rp.12.000",R.drawable.sate ));
+            datamakanan.add(new Modelmakanan("ega","Rp.1.000",R.drawable.sate ));
+
 
 
             MakananAdapter adapterListMakanan = new MakananAdapter(datamakanan,this);
