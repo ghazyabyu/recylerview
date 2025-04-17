@@ -32,7 +32,7 @@ import java.util.ArrayList;
             datamakanan.add(new Modelmakanan("pindang serani","Rp25.000",R.drawable.pindang ));
             datamakanan.add(new Modelmakanan("fawwaz","gratis",R.drawable.rendang ));
             datamakanan.add(new Modelmakanan("ega","Rp.1.000",R.drawable.sate ));
-
+            datamakanan.add(new Modelmakanan("sundelbakar","Rp.1.000.000.000",R.drawable.sate ));
 
 
             MakananAdapter adapterListMakanan = new MakananAdapter(datamakanan,this);
